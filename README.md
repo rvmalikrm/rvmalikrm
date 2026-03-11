@@ -55,3 +55,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java Selenium
 - 📫 How to reach me: rm.rvmalik@gmail.com
 
+- <img src="YOUR_IMAGE_LINK" width="200" style="border-radius:50%">
+
