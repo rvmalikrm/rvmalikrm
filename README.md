@@ -33,6 +33,13 @@ Git | GitHub | Jenkins | Docker
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvmalikrm&layout=compact)
 
 ---
+## 🏆 Key Achievements
+✔ Developed **Automation Framework from scratch**  
+✔ Reduced **manual testing effort by 30%** through automation  
+✔ Automated **Regression and API test suites**  
+✔ Implemented **CI/CD integration for automated test execution**
+
+---
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/ravi-malik-5106641ba/
