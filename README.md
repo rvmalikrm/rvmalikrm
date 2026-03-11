@@ -29,6 +29,11 @@ Git | GitHub | Jenkins | Docker
 
 ---
 
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvmalikrm&layout=compact)
+
+---
+
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/ravi-malik-5106641ba/
 - Email: rm.rvmalik@gmail.com
