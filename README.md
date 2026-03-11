@@ -45,15 +45,13 @@ Git | GitHub | Jenkins | Docker
 - LinkedIn: https://www.linkedin.com/in/ravi-malik-5106641ba/
 - Email: rm.rvmalik@gmail.com
 
-<!--
-**rvmalikrm/rvmalikrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⭐ If you like my work, feel free to star my repositories!
+
 
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Playwright
-
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Java Selenium
 - 📫 How to reach me: rm.rvmalik@gmail.com
 
--->
